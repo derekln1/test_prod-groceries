@@ -1,7 +1,7 @@
 {
     "apple": {
         "price": 1,
-        "number": 2
+        "number": 3
     },
     "orange": {
         "price": 1,
@@ -9,11 +9,11 @@
     },
     "broccoli": {
         "price": 1,
-        "number": 2
+        "number": 3
     },
     "mushroom": {
         "price": 2,
-        "number": 2
+        "number": 3
     },
     "beer": {
         "price": 3,
