@@ -1,0 +1,18 @@
+{
+    "apple": {
+        "price": 1,
+        "number": 4
+    },
+    "orange": {
+        "price": 1,
+        "number": 3
+    },
+    "broccoli": {
+        "price": 1,
+        "number": 6
+    },
+    "mushroom": {
+        "price": 2,
+        "number": 3
+    }
+}
