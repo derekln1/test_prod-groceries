@@ -13,10 +13,10 @@
     },
     "mushroom": {
         "price": 2,
-        "number": 3
+        "number": 5
     },
     "beer": {
         "price": 3,
-        "number": 9
+        "number": 10
     }
 }
